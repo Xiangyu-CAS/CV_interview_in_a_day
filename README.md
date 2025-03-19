@@ -1,6 +1,25 @@
 # 一天学会的CV算法面经 (校招/社招)
 个人经过面试阿里，字节，美团，滴滴，百度，快手等公司后，整理的面经，主要是CV算法方向，欢迎大家STAR。区别于其他面经，这个repo只有高频内容，保证在一天之内可以放心食用完毕。
 
+## 知识点梳理
+Transformer
+- [self-attention](CV/4_transformer.md)
+- [Positonal Embedding / ROPE](CV/4_transformer.md)
+- [Transformer相关面试题](CV/4_transformer_FQA.md)
+  
+Diffusion model
+- [DDPM/DDIM](CV/5_diffusion.md)
+- [Flow Matching](CV/5_diffusion.md)
+- [Diffusion相关面试题](CV/5_diffusion_FQA.md)
+
+深度学习
+- [卷积](CV/1_深度学习基础.md)
+- [激活函数](CV/1_深度学习基础.md)
+
+传统图像处理
+- [均值滤波](CV/0_传统图像处理.md)
+
+
 ## 第一轮技术面/第二轮技术面
 内容主要包括：自我介绍，项目介绍，算法题，八股文。算法题和八股文可参照[面经](面经.md)
 - 自我介绍：5分钟左右简短自我介绍，主要介绍自己所做方向，经历和取得的成果。
